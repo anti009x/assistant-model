@@ -139,5 +139,4 @@ Streaming Tool/Function calling is not yet supported.</p>
     <span class="n">ollama</span><span class="o">.</span><span class="n">pull</span><span class="p">(</span><span class="n">model</span><span class="p">)</span>
 </pre>
 
-          </div>
-        </div>
+
