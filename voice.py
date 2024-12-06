@@ -3,7 +3,10 @@ import os
 import time
 import subprocess
 
+GOOGLE_TTS_MAX_CHARS = 100  # Max characters the Google TTS API takes at a time
+
 def voice(teks):
+    
     """
     Fungsi untuk mengubah teks menjadi suara dan memutarnya.
     

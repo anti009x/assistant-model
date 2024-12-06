@@ -1,0 +1,6 @@
+pip install ollama
+pip install gtts
+pip install pyaudio
+pip install PyAudio
+pip install SpeechRecognition
+pip install numpy
